@@ -1,0 +1,8 @@
+# 发布检查清单
+
+- [x] SKILL.md 结构与触发干运行通过
+- [x] README 与本地安装路径一致
+- [x] `gh` 已安装且已登录
+- [x] `ReiSei0824/agent-wait-resume-tester` 发布前不存在
+- [ ] 创建新公开仓库并推送 main
+- [ ] 远端 main SHA 已复核
